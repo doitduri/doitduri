@@ -7,8 +7,5 @@
 - Learning SwiftUI, Dart
 - ⚡ Passionate about new mobile technologies.
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doitduri&count_private=true)
-
 [![Blog Badge](https://img.shields.io/badge/-Blog-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://doitduri.tistory.com/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=for-the-badge&logo&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/doitduri)
